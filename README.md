@@ -1,2 +1,2 @@
 # circleci-slim
-A simple container with Heroku CLI, Docker CLI and git
+A simple container with Heroku CLI, Docker CLI and git. Based on Alpine.
